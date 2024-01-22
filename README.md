@@ -1,6 +1,6 @@
 ### Hi there, I'm Roman Maliutin - aka MalRomAndr 👋
 
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently interested in Data Science
 - 💬 Ask me about programming for AutoCAD, I understand something about it =)
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MalRomAndr&layout=compact)
