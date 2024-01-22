@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Roman Maliutin - aka MalRomAndr 👋
 
+- 🌱 I’m currently learning Data Science
+- 💬 Ask me about programming for AutoCAD, I understand something about it =)
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MalRomAndr&layout=compact)
 <!--
 **MalRomAndr/MalRomAndr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
